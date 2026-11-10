@@ -1,0 +1,39 @@
+{
+  "people": [
+    "Asha",
+    "Balu",
+    "Chitra"
+  ],
+  "expenses": [
+    {
+      "description": "snacks",
+      "payer": "Chitra",
+      "amount": 100,
+      "members": [
+        "Asha",
+        "Balu",
+        "Chitra"
+      ]
+    },
+    {
+      "description": "Taxi",
+      "payer": "Asha",
+      "amount": 90000,
+      "members": [
+        "Asha",
+        "Balu",
+        "Chitra"
+      ]
+    },
+    {
+      "description": "Taxi",
+      "payer": "Asha",
+      "amount": 90000,
+      "members": [
+        "Asha",
+        "Balu",
+        "Chitra"
+      ]
+    }
+  ]
+}
